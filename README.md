@@ -1,5 +1,5 @@
 # Active-Directory-Project: Building and Securing an Active Directory Environment with Virtual Machines, Sysmon, and Splunk Monitoring
-This project focuses on building and securing an Active Directory environment. It involves setting up virtual machines, configuring Sysmon and Splunk for monitoring, and installing Active Directory. Additionally, the project includes testing security using brute-force attacks from Kali Linux, analyzing telemetry data in Splunk, and conducting atomic tests with ART.
+* This project focuses on building and securing an Active Directory environment. It involves setting up virtual machines, configuring Sysmon and Splunk for monitoring, and installing Active Directory. Additionally, the project includes testing security using brute-force attacks from Kali Linux, analyzing telemetry data in Splunk, and conducting atomic tests with ART.
 
 # ~ Step 1: Created a Logical Diagram using Draw.io
 Utilized Draw.io to develop a logical diagram for the project.
